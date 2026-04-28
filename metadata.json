@@ -1,0 +1,9 @@
+{
+  "name": "Smart Emergency Resource Allocator – Ghaziabad",
+  "description": "A hyperlocal emergency response PWA to help users quickly find and allocate ambulances, hospitals, and blood banks in Ghaziabad.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
